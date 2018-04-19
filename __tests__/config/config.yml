@@ -1,0 +1,4 @@
+host: test.com
+user: admin
+password: password
+books: [a, b, c, d]
